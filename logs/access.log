@@ -1,0 +1,55 @@
+127.0.0.1 [22/Jun/2024:19:36:44 -0400] PUBLISH "live" "mystream" "" - 15525078 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (14s)
+127.0.0.1 - - [22/Jun/2024:19:39:16 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:41:57 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:18 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:18 -0400] "GET /favicon.ico HTTP/1.1" 404 571 "http://localhost:8080/live/mystream.m3u8" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:51 -0400] "GET / HTTP/1.1" 200 5859 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:51 -0400] "GET /history/history.js HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:51 -0400] "GET /history/history.css HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:42:51 -0400] "GET /swfobject.js HTTP/1.1" 200 10220 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:43:12 -0400] "GET /live HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:43:41 -0400] "GET /live HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:43:41 -0400] "GET /live HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:43:49 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:45:35 -0400] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:45:35 -0400] "GET /history/history.css HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:45:35 -0400] "GET /history/history.js HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:45:35 -0400] "GET /swfobject.js HTTP/1.1" 304 0 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:45:40 -0400] "GET /live HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 [22/Jun/2024:19:46:08 -0400] PUBLISH "live" "mystream" "" - 46174775 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (39s)
+127.0.0.1 - - [22/Jun/2024:19:47:50 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:47:51 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:48:10 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:49:17 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:49:20 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:49:46 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 [22/Jun/2024:19:50:02 -0400] PUBLISH "live" "mystream" "" - 169546366 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 16s)
+127.0.0.1 - - [22/Jun/2024:19:50:06 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:50:07 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:50:12 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:19:50:51 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Jun/2024:19:55:49 -0400] PUBLISH "live" "mystream" "" - 404222514 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (5m 21s)
+127.0.0.1 - - [22/Jun/2024:19:56:36 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 - - [22/Jun/2024:19:56:38 -0400] "GET /live/mystream.m3u8 HTTP/1.0" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 - - [22/Jun/2024:19:56:46 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 - - [22/Jun/2024:19:56:48 -0400] "GET /live/mystream.m3u8 HTTP/1.0" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 - - [22/Jun/2024:19:57:19 -0400] "GET /live HTTP/1.1" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 - - [22/Jun/2024:19:57:21 -0400] "GET /live HTTP/1.0" 404 169 "-" "VLC/3.0.21 LibVLC/3.0.21"
+127.0.0.1 [22/Jun/2024:19:57:29 -0400] PUBLISH "live" "mystream" "" - 60731951 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (50s)
+127.0.0.1 - - [22/Jun/2024:20:14:32 -0400] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:14:32 -0400] "GET /history/history.css HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:14:32 -0400] "GET /history/history.js HTTP/1.1" 404 571 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:14:32 -0400] "GET /swfobject.js HTTP/1.1" 304 0 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:14:35 -0400] "GET /live HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:15:13 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:16:59 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+192.168.1.6 [22/Jun/2024:20:17:56 -0400] PUBLISH "live" "mystream" "" - 416675394 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (5m 28s)
+127.0.0.1 - - [22/Jun/2024:20:19:33 -0400] "GET /live/stream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:20:51 -0400] "GET /live/mystream.m3u8 HTTP/1.1" 404 571 "http://127.0.0.1:5500/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+127.0.0.1 - - [22/Jun/2024:20:26:50 -0400] "GET /live/stream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+192.168.1.6 [22/Jun/2024:20:28:29 -0400] PUBLISH "live" "mystream" "" - 133245461 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 45s)
+192.168.1.6 [22/Jun/2024:20:39:47 -0400] PUBLISH "live" "mystream" "" - 122842899 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (1m 40s)
+192.168.1.6 [22/Jun/2024:20:41:21 -0400] PLAY "live" "" "" - 690 104953904 "" "LNX 9,0,124,2" (3m 25s)
+127.0.0.1 - - [22/Jun/2024:20:41:35 -0400] "GET /live/ HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+192.168.1.6 [22/Jun/2024:20:43:29 -0400] PUBLISH "live" "" "" - 267461727 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3m 31s)
+127.0.0.1 - - [22/Jun/2024:20:43:59 -0400] "GET /live/teste.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"

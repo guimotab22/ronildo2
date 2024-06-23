@@ -1,0 +1,7 @@
+2024/06/22 21:04:14 [emerg] 24352#29432: CreateDirectory() "/tmp/hls" failed (3: FormatMessage() error:(15100))
+2024/06/22 21:09:20 [emerg] 31504#28928: invalid number of arguments in "hls_path" directive in C:\Users\Guilherme Mota\Downloads\nginx-rtmp-win32-dev\nginx-rtmp-win32-dev/conf/nginx.conf:17
+2024/06/22 21:10:22 [emerg] 22124#10840: CreateDirectory() "C:\Users\Guilherme Mota\Downloads
+ginx-rtmp-win32-dev
+ginx-rtmp-win32-dev	emp\hls" failed (123: FormatMessage() error:(15100))
+2024/06/23 14:39:25 [emerg] 31916#5800: CreateDirectory() "/tmp/hls" failed (3: FormatMessage() error:(15100))
+2024/06/23 14:40:35 [emerg] 14580#17760: CreateDirectory() "/tmp/hls" failed (3: FormatMessage() error:(15100))
